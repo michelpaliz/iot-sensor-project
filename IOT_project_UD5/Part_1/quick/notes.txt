@@ -1,0 +1,16 @@
+source ~/Documents/enviroment_integration/venv/bin/activate
+
+
+//how can i check the issue
+
+cd ~/zigbee2mqtt
+npm start
+
+
+ What This Confirms:
+Zigbee2MQTT is still incompatible with your dongle's current firmware
+Your flashing step via the Elelabs utility either failed or didn’t happen yet
+
+
+Activate enviroment_integration
+source venv/bin/activate
